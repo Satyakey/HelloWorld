@@ -1,2 +1,2 @@
 print("Hello World")
-print("learning Python on the go")
+print("learning on the go")
