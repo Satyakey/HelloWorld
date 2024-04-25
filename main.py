@@ -1,4 +1,4 @@
-from StringMethods import *
+from stringMethods import *
 
 test = "test variable1"
 test2 = "AB123"
